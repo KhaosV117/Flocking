@@ -1,0 +1,5 @@
+﻿  Source.cpp
+     Creating library c:\users\this guy\documents\visual studio 2015\Projects\Flocking\Debug\Flocking.lib and object c:\users\this guy\documents\visual studio 2015\Projects\Flocking\Debug\Flocking.exp
+sfml-main-d.lib(MainWin32.cpp.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'sfml-main-d.lib(MainWin32.cpp.obj)' or at 'c:\users\this guy\documents\visual studio 2015\Projects\Flocking\Debug\vc140.pdb'; linking object as if no debug info
+  Flocking.vcxproj -> c:\users\this guy\documents\visual studio 2015\Projects\Flocking\Debug\Flocking.exe
+  Flocking.vcxproj -> c:\users\this guy\documents\visual studio 2015\Projects\Flocking\Debug\Flocking.pdb (Full PDB)
